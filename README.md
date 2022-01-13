@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+My Page Visitors: ![Visitor Count](https://profile-counter.glitch.me/liuyuchen777/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuchen777)](https://github.com/Christmas/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![liuyuchen777's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyuchen777&show_icons=true&theme=tokyonight)
