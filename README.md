@@ -4,9 +4,9 @@
 ![Hello World](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)
 
 - I am master student at Tokyo Tech.
-- I research on applying Multi-Agent Reinforcement Learning to Mobile Network Parameter Optimization.
-- You can access my blog [here](https://liuyuchen777.github.io/)!
-- Study to become a professional software developer.
+- I research on applying Multi-Agent Reinforcement Learning (MARL) to mobile communication network parameter optimization problem.
+- My blog is [here](https://liuyuchen777.github.io/).
+- Study to become a professional software developer -> Java + C/C++ + Python + TS/JS.
 
 <br/>  
 
